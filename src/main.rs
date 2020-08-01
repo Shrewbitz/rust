@@ -1,7 +1,8 @@
-mod print;
+// mod print;
+mod vars;
 
 fn main() {
-    print::run();
+    vars::run();
    
 }
 // use ferris_says::say;
