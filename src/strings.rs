@@ -4,7 +4,7 @@
 
 pub fn run() {
     //primitive
-    let hello = "hello";
+    // let hello = "hello";
     
     //mutable string
     let mut hello2 = String::from("hey ya! ");
