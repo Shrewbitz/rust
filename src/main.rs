@@ -2,10 +2,12 @@
 // mod vars;
 // mod types;
 // mod strings;
-mod tuples;
+// mod tuples;
+mod arrays;
+
 
 fn main() {
-    tuples::run();
+    arrays::run();
    
 }
 // use ferris_says::say;
