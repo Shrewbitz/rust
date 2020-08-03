@@ -7,11 +7,12 @@
 // mod vectors;
 // mod conditionals;
 // mod loops;
-mod functions;
+// mod functions;
+mod pointerref;
 
 
 fn main() {
-    functions::run();
+    pointerref::run();
    
 }
 // use ferris_says::say;
