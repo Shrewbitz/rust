@@ -8,12 +8,11 @@
 // mod conditionals;
 // mod loops;
 // mod functions;
-mod pointerref;
-
+// mod pointerref;
+mod structs;
 
 fn main() {
-    pointerref::run();
-   
+    structs::run();
 }
 // use ferris_says::say;
 // use std::io::{stdout, BufWriter};
