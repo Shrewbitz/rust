@@ -9,10 +9,11 @@
 // mod loops;
 // mod functions;
 // mod pointerref;
-mod structs;
+// mod structs;
+mod enums;
 
 fn main() {
-    structs::run();
+    enums::run();
 }
 // use ferris_says::say;
 // use std::io::{stdout, BufWriter};
