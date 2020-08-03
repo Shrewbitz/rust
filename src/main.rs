@@ -6,11 +6,12 @@
 // mod arrays;
 // mod vectors;
 // mod conditionals;
-mod loops;
+// mod loops;
+mod functions;
 
 
 fn main() {
-    loops::run();
+    functions::run();
    
 }
 // use ferris_says::say;
