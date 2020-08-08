@@ -10,11 +10,17 @@
 // mod functions;
 // mod pointerref;
 // mod structs;
-mod enums;
+// mod enums;
+// mod basics;
+// mod leet_code;
 
 fn main() {
-    enums::run();
+    // basics::strings::run();
+    // leet_code_test::sum3(vec![-1,3,5,-2,9,10], 16);
+    // leet_code::leet_code_test::sum3(vec![1,1,1,1], -100);
 }
+//3,5,-2
+
 // use ferris_says::say;
 // use std::io::{stdout, BufWriter};
 
