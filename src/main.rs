@@ -12,12 +12,15 @@
 // mod structs;
 // mod enums;
 // mod basics;
-// mod leet_code;
+mod leet_code;
 
 fn main() {
     // basics::strings::run();
     // leet_code_test::sum3(vec![-1,3,5,-2,9,10], 16);
     // leet_code::leet_code_test::sum3(vec![1,1,1,1], -100);
+    // leet_code::alien_dictionary::run(vec!["jyr","e"],"ygdehxlwjqifpabnzkrmtusovc".to_string());
+    // leet_code::alien_dictionary::run(vec!["word","world","row"], "worldabcefghijkmnpqstuvxyz");
+    leet_code::alien_dictionary::run(vec!["apple","app"], "abcdefghijklmnopqrstuvwxyz".to_string());
 }
 //3,5,-2
 
